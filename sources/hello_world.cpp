@@ -1,5 +1,7 @@
 #include <iostream>
 
-int main(){
+int main() {
     std::cout << "Hello World from VadimSmD!";
-    return 1;}
+    // Fixed brackets 
+    return 1;
+}
